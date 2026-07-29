@@ -16,3 +16,7 @@ This repository contains my academic lab work related to networking, Linux, and 
 
 ## Description
 These labs were completed as part of my coursework to build practical skills in networking and cybersecurity.
+
+## CyberOps Associate Coursework
+
+I developed knowledge of security operations, network monitoring, traffic analysis, threat detection, security alert investigation, and incident response through CyberOps Associate coursework.
