@@ -1,4 +1,4 @@
-# Networking and Cybersecurity Labs
+# Networking, System Administration, and CyberOps Labs
 
 This repository contains my academic lab work related to networking, Linux, and cybersecurity.
 
